@@ -1,0 +1,1 @@
+console.log('yeni bir console log')

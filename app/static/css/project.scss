@@ -1,0 +1,22 @@
+$font:    Helvetica, sans-serif;
+$primary-color: #333;
+$second-color: #c9312c;
+
+
+body {
+ color: $second-color;
+ font-family: $font;
+}
+
+.testClass {
+  background: $primary-color;
+  font-size: 16px;
+  line-height: 1
+}
+
+.newClass {
+  padding: 0;
+  .innerClass {
+border: 3px solid #ccc
+  }
+}

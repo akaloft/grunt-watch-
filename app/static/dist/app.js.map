@@ -1,0 +1,1 @@
+{"version":3,"sources":["../js/jquery.min.js"],"names":[],"mappings":"AAAA,OAAO,CAAC,GAAG,EAAE,MAAM","file":"app.js","sourcesContent":["console.log('jquery')"]}

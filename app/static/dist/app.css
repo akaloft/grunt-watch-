@@ -1,0 +1,19 @@
+body {
+  color: #c9312c;
+  font-family: Helvetica, sans-serif;
+}
+
+.testClass {
+  background: #333;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.newClass {
+  padding: 0;
+}
+.newClass .innerClass {
+  border: 3px solid #ccc;
+}
+
+/*# sourceMappingURL=app.css.map */
