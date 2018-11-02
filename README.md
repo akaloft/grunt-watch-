@@ -1,3 +1,3 @@
 Grunt watch
 
-iş görüşmesinde istenen study case için hazırlanmıştır.
+iş görüşmesinde istenen case study için hazırlanmıştır.
